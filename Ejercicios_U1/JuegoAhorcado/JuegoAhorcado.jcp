@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>JuegoAhorcado</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.8.0_161</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>JuegoAhorcado.JuegoAhorcado</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>src\JuegoAhorcado</path>
+			</folderitem>
+			<fileitem>
+				<path>src\JuegoAhorcado.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\JuegoAhorcado\Ahorcado.java</path>
+				<folder>src\JuegoAhorcado</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

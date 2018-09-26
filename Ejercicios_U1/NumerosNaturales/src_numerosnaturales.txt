@@ -1,0 +1,2 @@
+D:\NumerosNaturales\src\Natural.java
+D:\NumerosNaturales\src\NumerosNaturales.java
